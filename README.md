@@ -1,7 +1,7 @@
 # pz-modlist-compiler
 Create my config entries automatically; Thank you!
 
-I got sick of searching, editing, and formatting my mod IDs; So here is this script!
+I got sick of searching, editing, and formatting my mod IDs for Project Zomboid; So here is this script!
 
 # Downloading & Installing
 
