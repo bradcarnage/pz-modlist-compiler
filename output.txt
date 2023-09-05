@@ -1,0 +1,6 @@
+Mod IDS: 
+OutsideSpawns;ImprovisedSilencers;ImprovisedSilencersVFEPatch;Improved_Muzzle_Flash;Black_Hawk;
+Workshop IDS: 
+2943943262;2799742455;2644648425;2799925193;
+Map Folders: 
+Outside Spawn Points & Insertions, KY;
